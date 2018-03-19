@@ -1,0 +1,6 @@
+D:\AAA\Программы\C#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\AAA\Программы\C#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\AAA\Программы\C#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\AAA\Программы\C#\ConsoleApplication1\ConsoleApplication1\obj\Debug\BinarySearch.csprojResolveAssemblyReference.cache
+D:\AAA\Программы\C#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\AAA\Программы\C#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
